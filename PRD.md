@@ -1,4 +1,4 @@
-# Product Requirements Document (PRD): CareGroup AI
+# Product Requirements Document (PRD): Care Group Copilot
 
 ## 1. Executive Vision & Architectural Altitude
 
@@ -6,11 +6,11 @@
 
 Small-group leaders routinely spend hours before each season guessing which topics, discussion formats, and spiritual themes fit their members, while members hesitate to share vulnerable life struggles or prayer needs if their names are attached to AI-processed records.
 
-The objective of **CareGroup AI** is not merely to build a digital survey form with an LLM wrapper. The system establishes a **Zero-Knowledge Pastoral Intelligence Engine**: it decouples member identity from member vulnerability at the ingestion boundary, transforms anonymized life-stage, faith-stage, preference, and prayer signals into contextual group intelligence, and generates ready-to-execute week-by-week seasonal plans that leaders review, refine, and approve in minutes.
+The objective of **Care Group Copilot** is not merely to build a digital survey form with an LLM wrapper. The system establishes a **Zero-Knowledge Pastoral Intelligence Engine**: it decouples member identity from member vulnerability at the ingestion boundary, transforms anonymized life-stage, faith-stage, preference, and prayer signals into contextual group intelligence, and generates ready-to-execute week-by-week seasonal plans that leaders review, refine, and approve in minutes.
 
 ### 1.2 Current State vs. Future State Operational Model
 
-| **Dimension** | **Current State (Manual Care Group Prep)** | **Future State (CareGroup AI MVP)** |
+| **Dimension** | **Current State (Manual Care Group Prep)** | **Future State (Care Group Copilot MVP)** |
 |---|---|---|
 | **Member Context Gathering** | Informal check-ins or spreadsheets; members self-censor sensitive struggles due to privacy concerns. | Zero-account mobile web link/QR intake capturing demographics, life stages, faith stages, and anonymous prayers. |
 | **Privacy & Data Handling** | Raw names tied to personal notes in chat logs or leader notebooks. | **Strictly unlinked anonymity**: zero member accounts, stripped network metadata, and automated PII redaction before AI egress. |
